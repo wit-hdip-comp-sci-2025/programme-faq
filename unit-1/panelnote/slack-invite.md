@@ -1,0 +1,1 @@
+[SETU Hip Comp Sci 2024 Slack](https://join.slack.com/t/setu-hdip-comp-sci-24/shared_invite/zt-1jpl0n4b9-H77vqS4lAjWRWN6APOMuKA)
