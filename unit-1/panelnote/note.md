@@ -14,7 +14,7 @@ All enrolled students will receive a registration link in an email from SETU fro
 
 If your employer is sponsoring the €900 fee payment, please complete your employers name and address details on the online registration form. SETU Finance will then dispatch an invoice to your employer. 
 
-Please note ‘returner’ applicants are exempt from the fee payment of €900. If you have  queries please contact Joan at [jmangan@wit.ie](mailto:jmangan@wit.ie) 
+Please note ‘returner’ applicants are exempt from the fee payment of €900. If you have  queries please contact Joan at [jmangan@wit.ie](mailto:joan.mangan@setu.ie) 
 
 ## 4. I have accepted the offer, what happens next?
 
@@ -22,7 +22,7 @@ By December 11th, please also do the following:
 
 - Sign up and in to our Slack organisation (Q.6)
 - Sign up for a Github account (Q.7)
-- Make arrangements to attend Workshop 1 on January 12th, 2024 (Q.8)"
+- Make arrangements to attend Workshop 1 on January 10th, 2025 (Q.8)"
 
 When all funding eligibility documents are validated on the Springboard portal you will receive the SETU registration link. Please upload all funding eligibility documents now.  All payslips and signed Returner letters will need to be dated **from November 20th**.  Only for those in receipt of DSP payments, the payment verification (payment slip) must be dated **from December 18th**.
 
@@ -38,7 +38,7 @@ If you do not have a reasonably modern laptop, you will need one almost immediat
 
 Almost all communications, learning, administrative and social communication will take place on the Slack platform. If you are unfamiliar with Slack – please take a few minutes to familiarise yourself with the basics [here](https://slack.com/intl/en-ie/help/articles/115004071768-What-is-Slack-) . You can join the programme Slack Workspace for the course by clicking on this invitation here:
 
-- [SETU Hip Comp Sci 2024 Slack](https://join.slack.com/t/setu-hdip-comp-sci-24/shared_invite/zt-27vuibsec-QgR7NeHT5p9PzJHzFFzsWw)
+- [SETU Hip Comp Sci 2025 Slack](https://join.slack.com/t/setu-hdip-comp-sci-24/shared_invite/zt-27vuibsec-QgR7NeHT5p9PzJHzFFzsWw) **TBD**
 
 The signup / sign in steps are relatively straightforward. Feel free to use your personal email - this email will not not be revealed to other Slack members. Please configure your profile within Slack as soon as you are signed in.  We ask that you set your profile to contain your **correct full name in** addition to a **suitable representative profile image** of yourself. Once we have everyone on board with Slack, all communications will be via this medium. These may be general communications, module specific discussions or direct messages (DMs). Slack can be accessed via the web, dedicated desktop applications, tablet and mobile applications. We recommend that you install the Slack application on both your workstation and your phone.
 
@@ -48,9 +48,9 @@ You will need a GitHub account for this programme. It is a free service for host
 
 ## 8. Do I have to attend Workshop 1 (Induction)?
 
-The course team expect that all students starting the programme in 2024 will attend this important workshop, to take place **on main campus at SETU, Cork Road, Waterford on Friday, January 12th**. 
+The course team expect that all students starting the programme in 2025 will attend this important workshop, to take place **on main campus at SETU, Cork Road, Waterford on Friday, January 10th**. 
 
-The event commences at 10:00 am, concluding at 5:00 pm. You will find the agenda [here](https://tutors.dev/course/wit-hdip-comp-sci-2024-workshop-1-3). If for any reason you cannot attend, please make immediate contact with the course team.
+The event commences at 10:00 am, concluding at 5:00 pm. You will find the agenda [here](https://tutors.dev/course/setu-hdip-comp-sci-2025-workshop-1-3). If for any reason you cannot attend, please make immediate contact with the course team.
 
 ## 9. Where in SETU will the workshop be held?
 
@@ -63,13 +63,13 @@ This [google maps link here is to the main entrance to this building](https://ma
 There are four tasks you will need to complete in advance of attending this workshop:
 
 - Complete the SETU registration process
-- Sign up for the programme HDip 2024 Slack Workspace
+- Sign up for the programme HDip 2025 Slack Workspace
 - Sign up for a Github account
 - Configure your workstation/laptop as detailed in Question 13 below
 
 ## 11. Where is the course material for the programme?
 
-All course material will be published on [this site](https://tutors.dev/course/wit-hdip-comp-sci-2024). Please bookmark this now.
+All course material will be published on [this site](https://tutors.dev/course/setu-hdip-comp-sci-2025). Please bookmark this now.
 
 ## 12. Where do I learn about the features of the programme website?
 
@@ -77,28 +77,28 @@ This programme web site is designed to be 'discoverable' - i.e. navigating & exp
 
 ## 13. Is there a calendar/timetable for the programme?
 
-Yes, you can find it [here](https://tutors.dev/course/wit-hip-comp-sci-2024-sem-1-calendar).
+Yes, you can find it [here](https://tutors.dev/course/setu-hip-comp-sci-2025-sem-1-calendar).
 
 ## 14. Where are the workstation configuration instructions?
 
 Each module may have differing requirements. These are specific instruction for the first 2 modules:
 
-- [Web Development I](https://tutors.dev/lab/wit-hdip-comp-sci-2024-web-dev-1/topic-00-overview/unit-a-course-review/book-a)
-- [Programming](https://tutors.dev/lab/wit-hdip-comp-sci-2024-programming/topic-00-induction/book-induction)
+- [Web Development I](https://tutors.dev/lab/setu-hdip-comp-sci-2025-web-dev-1/topic-00-overview/unit-a-course-review/book-a)
+- [Programming](https://tutors.dev/lab/setu-hdip-comp-sci-2025-programming/topic-00-induction/book-induction)
 
 Please complete these labs above in advance of Workshop 1.
 
 ## 15. What should I do if I am having a problem configuring my laptop?
 
-Seek help on Slack, there will be a channel for PC & Laptop specs. Also, seek help on the specific programming and web development channels in Slack. If you like, you can bring your laptop to [Workshop 1](https://tutors.dev/course/wit-hdip-comp-sci-2024-workshop-1-3) . There is time set aside at the end of the day for technical and other queries.
+Seek help on Slack, there will be a channel for PC & Laptop specs. Also, seek help on the specific programming and web development channels in Slack. If you like, you can bring your laptop to [Workshop 1](https://tutors.dev/course/setu-hdip-comp-sci-2025-workshop-1-3) . There is time set aside at the end of the day for technical and other queries.
 
-## 16. What is "Life etc...?"
+## 16. What is "Life etc...?"    
 
 This [short video](https://youtu.be/7AhEa-w1ZPU) provides good introduction.
 
 ## 17. What will we do at Workshop 1 (Induction)?
 
-Full agenda and talks are showing  [here](https://tutors.dev/course/wit-hdip-comp-sci-2024-workshop-1-3). Keep an eye for more updates as the date approaches.
+Full agenda and talks are showing  [here](https://tutors.dev/course/setu-hdip-comp-sci-2025-workshop-1-3). Keep an eye for more updates as the date approaches.
 
 ## 17. Should I bring my laptop to Workshop 1 (Induction)?
 
