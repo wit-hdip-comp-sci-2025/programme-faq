@@ -44,7 +44,7 @@ The signup / sign in steps are relatively straightforward. Feel free to use your
 
 ## 7. What is Github? How do I sign up?
 
-You will need a GitHub account for this programme. It is a free service for hosting software projects. You will also be using your GitHub account to sign into the course material. See [these sign up instructions](https://reader.tutors.dev/talk/wit-hdip-comp-sci-2023-workshop-1-3/unit-1/talk-4-signup/tutors-signup.pdf)) for a detailed walkthrough of the sign up procedure. We ask you to pay close attention to slide 7 in this guide, which asks you to provide a specific format for your GitHub name field.
+You will need a GitHub account for this programme. It is a free service for hosting software projects. You will also be using your GitHub account to sign into the course material. See [these sign up instructions](https://tutors.dev/talk/setu-hdip-comp-sci-2025-workshop-1-3/unit-1/talk-4-signup) for a detailed walkthrough of the sign up procedure. We ask you to pay close attention to slide 7 in this guide, which asks you to provide a specific format for your GitHub name field.
 
 ## 8. Do I have to attend Workshop 1 (Induction)?
 
