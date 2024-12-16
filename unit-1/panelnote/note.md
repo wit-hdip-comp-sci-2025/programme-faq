@@ -10,15 +10,15 @@ By **December 4th** at the latest, upload ALL required **funding eligibility** d
 
 ## 3. When & how do I pay the fees?
 
-All enrolled students will receive a registration link in an email from SETU from **December 6th**.  Use this link to complete your online registration. A fee of €900 must be paid as a once-off up front payment. This represents 10% of the course fee, the remainder is paid by Springboard. 
+For Springboard Students, a fee of €900 must be paid as a once-off up front payment. This represents 10% of the course fee, the remainder is paid by Springboard.
 
-If your employer is sponsoring the €900 fee payment, please complete your employers name and address details on the online registration form. SETU Finance will then dispatch an invoice to your employer. 
+SETU Finance will be in contact with you in due course to arrange payment.
 
-Please note ‘returner’ applicants are exempt from the fee payment of €900. If you have  queries please contact Joan at [jmangan@wit.ie](mailto:joan.mangan@setu.ie) 
+Please note ‘returner’ applicants are exempt from the fee payment of €900. If you have  queries please contact Joan at [joan.mangan@setu.ie](mailto:joan.mangan@setu.ie) 
 
 ## 4. I have accepted the offer, what happens next?
 
-By December 11th, please also do the following:
+By December 18th, please also do the following:
 
 - Sign up and in to our Slack organisation (Q.6)
 - Sign up for a Github account (Q.7)
@@ -26,7 +26,7 @@ By December 11th, please also do the following:
 
 When all funding eligibility documents are validated on the Springboard portal you will receive the SETU registration link. Please upload all funding eligibility documents now.  All payslips and signed Returner letters will need to be dated **from November 20th**.  Only for those in receipt of DSP payments, the payment verification (payment slip) must be dated **from December 18th**.
 
-By **December 21st**, you should receive a SETU email with your student number, email address and SETU network access details. You will use these credentials to access other services, which we will introduce as needed, so please take careful note of them.
+You will receive a SETU email with your student number, email address and SETU network access details. You will use these credentials to access other services, which we will introduce as needed, so please take careful note of them.
 
 ## 5. Should I buy a new laptop/workstation?
 
@@ -38,7 +38,7 @@ If you do not have a reasonably modern laptop, you will need one almost immediat
 
 Almost all communications, learning, administrative and social communication will take place on the Slack platform. If you are unfamiliar with Slack – please take a few minutes to familiarise yourself with the basics [here](https://slack.com/intl/en-ie/help/articles/115004071768-What-is-Slack-) . You can join the programme Slack Workspace for the course by clicking on this invitation here:
 
-- [SETU Hip Comp Sci 2025 Slack](https://join.slack.com/t/setu-hdip-comp-sci-24/shared_invite/zt-27vuibsec-QgR7NeHT5p9PzJHzFFzsWw) **TBD**
+- [SETU Hip Comp Sci 2025 Slack](https://join.slack.com/t/setu-hdip-comp-sci-25/shared_invite/zt-2wdq9ytj6-~KLz5eWit9jVYCPA_6wCNQ) 
 
 The signup / sign in steps are relatively straightforward. Feel free to use your personal email - this email will not not be revealed to other Slack members. Please configure your profile within Slack as soon as you are signed in.  We ask that you set your profile to contain your **correct full name in** addition to a **suitable representative profile image** of yourself. Once we have everyone on board with Slack, all communications will be via this medium. These may be general communications, module specific discussions or direct messages (DMs). Slack can be accessed via the web, dedicated desktop applications, tablet and mobile applications. We recommend that you install the Slack application on both your workstation and your phone.
 
