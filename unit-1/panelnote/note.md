@@ -24,7 +24,7 @@ By December 18th, please also do the following:
 - Sign up for a Github account (Q.7)
 - Make arrangements to attend Workshop 1 on January 10th, 2025 (Q.8)"
 
-When all funding eligibility documents are validated on the Springboard portal you will receive the SETU registration link. Please upload all funding eligibility documents now.  All payslips and signed Returner letters will need to be dated **from November 20th**.  Only for those in receipt of DSP payments, the payment verification (payment slip) must be dated **from December 18th**.
+When all funding eligibility documents are validated on the Springboard portal you will receive the SETU registration instructions. Please upload all funding eligibility documents now.  All payslips and signed Returner letters will need to be dated **from November 20th**.  Only for those in receipt of DSP payments, the payment verification (payment slip) must be dated **from December 18th**.
 
 You will receive a SETU email with your student number, email address and SETU network access details. You will use these credentials to access other services, which we will introduce as needed, so please take careful note of them.
 
@@ -73,7 +73,7 @@ All course material will be published on [this site](https://tutors.dev/course/s
 
 ## 12. Where do I learn about the features of the programme website?
 
-This programme web site is designed to be 'discoverable' - i.e. navigating & experimenting with the site should be sufficient to master it. We will review all web resources during Workshop 1 (Induction). In advance, you might find [this introduction useful.](https://reader.tutors.dev/talk/wit-hdip-comp-sci-2023-workshop-1-3/unit-1/talk-2-course-webs/course-webs.pdf)
+This programme web site is designed to be 'discoverable' - i.e. navigating & experimenting with the site should be sufficient to master it. We will review all web resources during Workshop 1 (Induction). In advance, you might find [this introduction useful.](https://tutors.dev/talk/setu-hdip-comp-sci-2025-workshop-1-3/unit-1/talk-2-course-webs)
 
 ## 13. Is there a calendar/timetable for the programme?
 
@@ -100,6 +100,6 @@ This [short video](https://youtu.be/7AhEa-w1ZPU) provides good introduction.
 
 Full agenda and talks are showing  [here](https://tutors.dev/course/setu-hdip-comp-sci-2025-workshop-1-3). Keep an eye for more updates as the date approaches.
 
-## 17. Should I bring my laptop to Workshop 1 (Induction)?
+## 18. Should I bring my laptop to Workshop 1 (Induction)?
 
 Not absolutely necessary, but it could be useful. In either case, please make sure you have the Slack app installed on your phone
