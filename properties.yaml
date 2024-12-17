@@ -2,7 +2,6 @@ credits   : Department of Computing & Mathematics, SETU
 parent    : course/setu-hdip-comp-sci-2025
 moodle    : https://moodle.wit.ie
 slack     : https://setu-hdip-comp-sci-25.slack.com
-auth      : 1
 ignorepin : 2125
 icon: 
   type: flat-color-icons:faq
