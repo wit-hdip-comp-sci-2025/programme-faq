@@ -77,7 +77,7 @@ This programme web site is designed to be 'discoverable' - i.e. navigating & exp
 
 ## 13. Is there a calendar/timetable for the programme?
 
-Yes, you can find it [here](https://tutors.dev/course/setu-hip-comp-sci-2025-sem-1-calendar).
+Yes, you can find it [here](https://tutors.dev/course/wit-hip-comp-sci-2024-sem-1-calendar).
 
 ## 14. Where are the workstation configuration instructions?
 
