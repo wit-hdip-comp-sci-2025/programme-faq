@@ -46,6 +46,12 @@ The signup / sign in steps are relatively straightforward. Feel free to use your
 
 You will need a GitHub account for this programme. It is a free service for hosting software projects. You will also be using your GitHub account to sign into the course material. See [these sign up instructions](https://tutors.dev/talk/setu-hdip-comp-sci-2025-workshop-1-3/unit-1/talk-4-signup) for a detailed walkthrough of the sign up procedure. We ask you to pay close attention to slide 7 in this guide, which asks you to provide a specific format for your GitHub name field.
 
+## 8. What is Moodle? How do I sign up?
+
+Moodle is a SETU E-Learning Platform used for Assignment Submission, feedback and grades. Occasionally it may be used for additional document distribution. See these sign up instructions to get started with Moodle.
+
+
+
 ## 8. Do I have to attend Workshop 1 (Induction)?
 
 The course team expect that all students starting the programme in 2025 will attend this important workshop, to take place **on main campus at SETU, Cork Road, Waterford on Friday, January 10th**. 
@@ -103,3 +109,4 @@ Full agenda and talks are showing  [here](https://tutors.dev/course/setu-hdip-co
 ## 18. Should I bring my laptop to Workshop 1 (Induction)?
 
 Not absolutely necessary, but it could be useful. In either case, please make sure you have the Slack app installed on your phone
+
