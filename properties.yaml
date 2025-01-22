@@ -5,5 +5,4 @@ slack     : https://setu-hdip-comp-sci-25.slack.com
 ignorepin : 2125
 icon: 
   type: flat-color-icons:faq
-ignore:
-  - unit-2
+

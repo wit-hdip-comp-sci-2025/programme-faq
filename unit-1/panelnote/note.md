@@ -48,7 +48,7 @@ You will need a GitHub account for this programme. It is a free service for host
 
 ## 8. What is Moodle? How do I sign up?
 
-Moodle is a SETU E-Learning Platform used for Assignment Submission, feedback and grades. Occasionally it may be used for additional document distribution. See these sign up instructions to get started with Moodle.
+Moodle is a SETU E-Learning Platform used for Assignment Submission, feedback and grades. Occasionally it may be used for additional document distribution. Follow [the sign up instructions](https://tutors.dev/course/setu-hdip-comp-sci-2025-moodle) to get started with Moodle.
 
 
 
