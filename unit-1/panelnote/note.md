@@ -2,7 +2,7 @@
 
 ## 1. Do I have to read all of this FAQ?
 
-Questions 1-7 are important and ideally you should read them carefully now. For the remainder, perhaps consult as needed.
+Questions 1-8 are important and ideally you should read them carefully now. For the remainder, perhaps consult as needed.
 
 ## 2. What do I need to do to assure my place on the course?
 
