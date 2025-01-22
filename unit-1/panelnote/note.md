@@ -52,19 +52,19 @@ Moodle is a SETU E-Learning Platform used for Assignment Submission, feedback an
 
 
 
-## 8. Do I have to attend Workshop 1 (Induction)?
+## 9. Do I have to attend Workshop 1 (Induction)?
 
 The course team expect that all students starting the programme in 2025 will attend this important workshop, to take place **on main campus at SETU, Cork Road, Waterford on Friday, January 10th**. 
 
 The event commences at 10:00 am, concluding at 5:00 pm. You will find the agenda [here](https://tutors.dev/course/setu-hdip-comp-sci-2025-workshop-1-3). If for any reason you cannot attend, please make immediate contact with the course team.
 
-## 9. Where in SETU will the workshop be held?
+## 10. Where in SETU will the workshop be held?
 
 The workshop will be held in the Auditorium beside the main atrium SETU Cork Road campus and in breakout rooms located in the adjacent School of Business building.  
 
 This [google maps link here is to the main entrance to this building](https://maps.app.goo.gl/kMCrVVrXoNgo6au89?g_st=ic). This is the [entrance to the most suitable car park](https://maps.app.goo.gl/SJQjgnPg3p4GpwW56?g_st=com.tinyspeck.chatlyio.share)
 
-## 10. What should I have done in advance of attending the Workshop 1?
+## 11. What should I have done in advance of attending the Workshop 1?
 
 There are four tasks you will need to complete in advance of attending this workshop:
 
@@ -73,19 +73,19 @@ There are four tasks you will need to complete in advance of attending this work
 - Sign up for a Github account
 - Configure your workstation/laptop as detailed in Question 13 below
 
-## 11. Where is the course material for the programme?
+## 12. Where is the course material for the programme?
 
 All course material will be published on [this site](https://tutors.dev/course/setu-hdip-comp-sci-2025). Please bookmark this now.
 
-## 12. Where do I learn about the features of the programme website?
+## 13. Where do I learn about the features of the programme website?
 
 This programme web site is designed to be 'discoverable' - i.e. navigating & experimenting with the site should be sufficient to master it. We will review all web resources during Workshop 1 (Induction). In advance, you might find [this introduction useful.](https://tutors.dev/talk/setu-hdip-comp-sci-2025-workshop-1-3/unit-1/talk-2-course-webs)
 
-## 13. Is there a calendar/timetable for the programme?
+## 14. Is there a calendar/timetable for the programme?
 
 Yes, you can find it [here](https://tutors.dev/course/wit-hip-comp-sci-2025-sem-1-calendar).
 
-## 14. Where are the workstation configuration instructions?
+## 15. Where are the workstation configuration instructions?
 
 Each module may have differing requirements. These are specific instruction for the first 2 modules:
 
@@ -94,19 +94,19 @@ Each module may have differing requirements. These are specific instruction for 
 
 Please complete these labs above in advance of Workshop 1.
 
-## 15. What should I do if I am having a problem configuring my laptop?
+## 16. What should I do if I am having a problem configuring my laptop?
 
 Seek help on Slack, there will be a channel for PC & Laptop specs. Also, seek help on the specific programming and web development channels in Slack. If you like, you can bring your laptop to [Workshop 1](https://tutors.dev/course/setu-hdip-comp-sci-2025-workshop-1-3) . There is time set aside at the end of the day for technical and other queries.
 
-## 16. What is "Life etc...?"    
+## 17. What is "Life etc...?"    
 
 This [short video](https://youtu.be/7AhEa-w1ZPU) provides good introduction.
 
-## 17. What will we do at Workshop 1 (Induction)?
+## 18. What will we do at Workshop 1 (Induction)?
 
 Full agenda and talks are showing  [here](https://tutors.dev/course/setu-hdip-comp-sci-2025-workshop-1-3). Keep an eye for more updates as the date approaches.
 
-## 18. Should I bring my laptop to Workshop 1 (Induction)?
+## 19. Should I bring my laptop to Workshop 1 (Induction)?
 
 Not absolutely necessary, but it could be useful. In either case, please make sure you have the Slack app installed on your phone
 
